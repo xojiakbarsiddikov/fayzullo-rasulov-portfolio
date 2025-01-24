@@ -1,0 +1,21 @@
+{
+	"data": [
+		{
+			"name": "10th Grade (3rd Place🥉 in English Language Olympiad)",
+			"image": "1.jpg",
+			"fade": "fade-right"
+		},
+		{
+			"name": "5th Grade (For Hardwork, Excellent Behavior & Studies and Active Participation) & Studies",
+			"image": "9.jpg",
+			"image4": "3.png",
+			"fade": "fade-down"
+		},
+		{
+			"name": "10th Grade (For the best designed School Website)",
+			"image": "13.jpg",
+			"fade": "fade-left",
+			"img_size": "img_size"
+		}
+	]
+}

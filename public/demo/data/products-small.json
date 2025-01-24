@@ -1,0 +1,15 @@
+{
+	"data": [
+		{
+			"name": "3rd Place🥉",
+			"image": "1.png",
+			"fade": "fade-right"
+		},
+		{
+			"name": "3rd Place🥉",
+			"image": "2.png",
+			"fade": "fade-down",
+			"img_size": "img_size"
+		}
+	]
+}
