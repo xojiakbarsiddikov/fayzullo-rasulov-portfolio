@@ -5,7 +5,7 @@
 <template>
     <div class="grid">
         <div class="col-12">
-            <div class="card" style="padding-bottom: 0.5rem !important;">
+            <div class="card" style="padding-bottom: 0.5rem !important">
                 <h5><span class="blue-color text-left">IELTS</span>CERTIFICATES</h5>
                     <div class="col-12 p-0">
                         <div class="flex justify-content-space-around align-items-center w-full img-wrapper width-images score-down-image">
